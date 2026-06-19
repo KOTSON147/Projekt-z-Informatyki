@@ -1,0 +1,211 @@
+Tier;Nazwa;Nacja;Typ
+I; RENAULT FT;Francja;Lekki
+II; HOTCHKISS H35;Francja;Lekki
+I; D1;Francja;Lekki
+II; FCM 36;Francja;Lekki
+II; RENAULT R35;Francja;Lekki
+I; AM 39 GENDRON-SOMUA;Francja;Lekki
+II; AMR 35;Francja;Lekki
+II; AMR P.103;Francja;Lekki
+II; RENAULT R35/FCM 36;Francja;Lekki
+III; AMX 38;Francja;Lekki
+IV; AMX 40;Francja;Lekki
+V; AMX ELC BIS;Francja;Lekki
+V;AMX 13 (FL 11);Francja;Lekki
+VI; AMX 12 T;Francja;Lekki
+VI; PANHARD AMD 178B;Francja;Lekki
+VI; AMX ELC 901;Francja;Lekki
+VII; AMX 13 75;Francja;Lekki
+VII; HOTCHKISS EBR;Francja;Lekki
+VII; AMX 13 57 GF;Francja;Lekki
+VII; AMX 13 57;Francja;Lekki
+VIII; BAT .- CHATILLON 12 T;Francja;Lekki
+VIII; PANHARD AML LYNX 6X6;Francja;Lekki
+VIII; PANHARD EBR 75 (FL 10);Francja;Lekki
+VIII; ELC EVEN 90;Francja;Lekki
+IX; AMX 13 90;Francja;Lekki
+IX; PANHARD EBR 90;Francja;Lekki
+IX; CHAR MLE. 75;Francja;Lekki
+IX; ERAC 105 PROTO;Francja;Lekki
+IX; PROJET LOUIS;Francja;Lekki
+IX; VCS 6X6 TS 90;Francja;Lekki
+X; AMX 13 105;Francja;Lekki
+X; PANHARD EBR 105;Francja;Lekki
+I; D2;Francja;?redni
+III; SOMUA S35;Francja;?redni
+IV; SARL 42;Francja;?redni
+V; RENAULT G1;Francja;?redni
+VI; BRETAGNE PANTHER;Francja;?redni
+VI; M4A1 FL 10;Francja;?redni
+VIII; ALTPROTO AMX 30;Francja;?redni
+VIII; MIEL;Francja;?redni
+VIII; BAT .- CHÂTILLON BOURRASQUE;Francja;?redni
+VIII; LORRAINE 40 T;Francja;?redni
+VIII; M4A1 REVALORISÉ;Francja;?redni
+VIII; AMX CHASSEUR DE CHARS;Francja;?redni
+IX; BAT .- CHATILLON 25 T AP;Francja;?redni
+IX; AMX 30 1 ER PROTOTYPE;Francja;?redni
+IX; CHAR MURAT;Francja;?redni
+IX; CHAR FUTUR 4;Francja;?redni
+IX; VERCINGÉTORIX;Francja;?redni
+IX; FANTÔME;Francja;?redni
+IX; LEOX;Francja;?redni
+X; BAT .- CHATILLON 25 T;Francja;?redni
+X; AMX 30 B;Francja;?redni
+XI; AS-XX 40 T;Francja;?redni
+III; FCM 2C;Francja;Ci??ki
+IV; B1;Francja;Ci??ki
+V; BDR G1 B;Francja;Ci??ki
+VI; ARL 44;Francja;Ci??ki
+VI; CHAR DE TRANSITION;Francja;Ci??ki
+VII; AMX M4 MLE. 45;Francja;Ci??ki
+VIII; AMX 50 100;Francja;Ci??ki
+VIII; AMX 65 T;Francja;Ci??ki
+VIII; AMX M4 MLE. 49 LIBERTÉ;Francja;Ci??ki
+VIII; SOMUA SM;Francja;Ci??ki
+VIII; AMX M4 MLE. 49;Francja;Ci??ki
+VIII; FCM 50 T;Francja;Ci??ki
+VIII; BRENNOS;Francja;Ci??ki
+IX; AMX 50 120;Francja;Ci??ki
+IX; AMX M4 MLE. 51;Francja;Ci??ki
+IX; LORRAINE 50 T;Francja;Ci??ki
+IX; SENTINELLE;Francja;Ci??ki
+X; AMX 50 B;Francja;Ci??ki
+X; AMX M4 MLE. 54;Francja;Ci??ki
+XI; AMX 67 IMBATTABLE;Francja;Ci??ki
+XI; FAUTEUR;Francja;Ci??ki
+II; RENAULT FT AC;Francja;Niszczyciel
+III; FCM 36 PAK 40;Francja;Niszczyciel
+III; RENAULT UE 57;Francja;Niszczyciel
+IV; SOMUA SAU 40;Francja;Niszczyciel
+V; S35 CA;Francja;Niszczyciel
+V; M10 RBFM;Francja;Niszczyciel
+VI; ARL V39;Francja;Niszczyciel
+VII; AMX AC MLE. 46;Francja;Niszczyciel
+VIII; AMX AC MLE. 48;Francja;Niszczyciel
+VIII; AMX CANON D'ASSAUT 105;Francja;Niszczyciel
+VIII; SFAC 105;Francja;Niszczyciel
+VIII; LORRAINE 120 ALBY;Francja;Niszczyciel
+IX; AMX 50 FOCH;Francja;Niszczyciel
+X; AMX 50 FOCH (155);Francja;Niszczyciel
+X; AMX 50 FOCH B;Francja;Niszczyciel
+II; RENAULT FT 75 BS;Francja;Artyleria
+III; LORRAINE 39L AM;Francja;Artyleria
+IV; AMX 105 AM MLE. 47;Francja;Artyleria
+V; 105 LEFH18B2;Francja;Artyleria
+V; AMX 13 105 AM MLE. 50;Francja;Artyleria
+VI; AMX 13 F3 AM;Francja;Artyleria
+VII; LORRAINE 155 MLE. 50;Francja;Artyleria
+VIII; LORRAINE 155 MLE. 51;Francja;Artyleria
+IX; BAT .- CHÂTILLON 155 55;Francja;Artyleria
+X; BAT .- CHÂTILLON 155 58;Francja;Artyleria
+I;STRV FM/21;Szwecja;Lekkie
+I; STRV M/38;Szwecja;Lekkie
+II; L-60;Szwecja;Lekkie
+II; STRV M/40L;Szwecja;Lekkie
+III; STRV M/31;Szwecja;Lekkie
+III; LAGO M38;Szwecja;Lekkie
+IV; LAGO;Szwecja;?rednia
+V; STRV M/42;Szwecja;?rednia
+VI; STRV 74;Szwecja;?rednia
+VI; STRV M/42-57 ALT A.2;Szwecja;?rednia
+VII; LEO;Szwecja;?rednia
+VIII; UDES 14 ALT 5;Szwecja;?rednia
+VIII; STRV 81;Szwecja;?rednia
+VIII; PRIMO VICTORIA;Szwecja;?rednia
+VIII; LANSEN C;Szwecja;?rednia
+VIII; STRIDSYXA;Szwecja;?rednia
+IX; UDES 16;Szwecja;?rednia
+IX; UDES 03 ALT 3;Szwecja;?rednia
+X; UDES 15/16;Szwecja;?rednia
+X; UDES 15/16 7X7;Szwecja;?rednia
+VIII; EMIL I;Szwecja;Ci??ki
+VIII; EMIL 1951;Szwecja;Ci??ki
+VIII; BOFORS TORNVAGN;Szwecja;Ci??ki
+IX; EMIL II;Szwecja;Ci??ki
+IX; STRV K;Szwecja;Ci??ki
+X; KRANVAGN;Szwecja;Ci??ki
+II; PVLVV FM/42;Szwecja;Niszczyciel
+III; IKV 72;Szwecja;Niszczyciel
+IV; SAV M/43;Szwecja;Niszczyciel
+V; IKV 103;Szwecja;Niszczyciel
+VI; IKV 65 ALT II;Szwecja;Niszczyciel
+VII; IKV 90 TYP B;Szwecja;Niszczyciel
+VIII; UDES 03;Szwecja;Niszczyciel
+VIII; STRV S1;Szwecja;Niszczyciel
+IX; STRV 103-0;Szwecja;Niszczyciel
+IX; LÄTT STRIDSFORDON 120;Szwecja;Niszczyciel
+X; STRV 103B;Szwecja;Niszczyciel
+XI; STRV 107-12;Szwecja;Niszczyciel
+I; 4TF;Polska;Lekki
+II; TKS Z N.K.M. 20 MM;Polska;Lekki
+I; 7TP;Polska;Lekki
+III; 10TP;Polska;Lekki
+IV; 14TP;Polska;Lekki
+V; 25TP KSUST II;Polska;?redni
+V; DS PZIN?;Polska;?redni
+VI; PUDEL;Polska;?redni
+VI; 40TP HABICHA;Polska;?redni
+VI; B.U.G.I.;Polska;?redni
+VI; T-34-85 RUDY;Polska;?redni
+VII; CS-44;Polska;?redni
+VIII; CS-53;Polska;?redni
+VIII; CS-52 C;Polska;?redni
+VIII; CS-52 LIS;Polska;?redni
+VIII; CS-53/56 WOJTEK;Polska;?redni
+IX; CS-59;Polska;?redni
+X; CS-63;Polska;?redni
+X; HURAGAN;Polska;?redni
+XI; CS-67 SZAKAL;Polska;?redni
+VII; 45TP HABICHA;Polska;Ci??ki
+VIII; 50TP PROTOTYP;Polska;Ci??ki
+VIII; 53TP MARKOWSKIEGO;Polska;Ci??ki
+VIII; 56TP;Polska;Ci??ki
+VIII; 50TP RESILIENT;Polska;Ci??ki
+IX; 50TP TYSZKIEWICZA;Polska;Ci??ki
+IX; CC-46 PANCERNIK;Polska;Ci??ki
+X; 60TP LEWANDOWSKIEGO;Polska;Ci??ki
+X; ASHBRINGER;Polska;Ci??ki
+X; WZ. 64GC BZYG;Polska;Ci??ki
+V; SDP 40 ZADYMKA;Polska;Niszczyciel
+VI; SDP 44 BURZA;Polska;Niszczyciel
+VII; SDP 57 GOWIKA;Polska;Niszczyciel
+VIII; SDP 58 KILANA;Polska;Niszczyciel
+VIII; SDP WZ 66 GROM;Polska;Niszczyciel
+IX; SDP 60 GONKIEWICZA;Polska;Niszczyciel
+X; NC 70 B?YSKAWICA;Polska;Niszczyciel
+I;FIAT 3000;W?ochy;Lekki
+II;L6/40;W?ochy;Lekki
+II; M14/41;W?ochy;?redni
+III; M15/42;W?ochy;?redni
+III; M16/43 SAHARIANO;W?ochy;?redni
+IV; P26/40;W?ochy;?redni
+V; P.43;W?ochy;?redni
+VI; P.43 BIS;W?ochy;?redni
+VII; P.43 TER;W?ochy;?redni
+VIII; P.44 PANTERA;W?ochy;?redni
+VIII; PROGETTO M35 MOD. 46;W?ochy;?redni
+VIII; MARS;W?ochy;?redni
+VIII; PROTOTIPO 6;W?ochy;?redni
+IX; PROTOTIPO STANDARD B;W?ochy;?redni
+IX; FELICE;W?ochy;?redni
+IX; SERPENTE;W?ochy;?redni
+IX; PREDATORE;W?ochy;?redni
+X; PROGETTO M40 MOD. 65;W?ochy;?redni
+X; COCCODRILLO;W?ochy;?redni
+X; LION;W?ochy;?redni
+X; CARRO DA COMBATTIMENTO 45 T;W?ochy;?redni
+VII; CARRO D'ASSALTO P.88;W?ochy;Ci??ki
+VIII; PROGETTO CC55 MOD. 54;W?ochy;Ci??ki
+VIII; BISONTE C45;W?ochy;Ci??ki
+VIII; STONE SENTINEL;W?ochy;Ci??ki
+IX; PROGETTO C50 MOD. 66;W?ochy;Ci??ki
+IX; TORO;W?ochy;Ci??ki
+X; RINOCERONTE;W?ochy;Ci??ki
+V; SEMOVENTE M41;W?ochy;Niszczyciel
+VI; SEMOVENTE M43 BASSOTTO;W?ochy;Niszczyciel
+VII; SMV CC-56;W?ochy;Niszczyciel
+VIII; SMV CC-67;W?ochy;Niszczyciel
+VIII; SMV CC-64 VIPERA;W?ochy;Niszczyciel
+IX; CONTROCARRO 1 MK. 2;W?ochy;Niszczyciel
+X; CONTROCARRO 3 MINOTAURO;W?ochy;Niszczyciel
